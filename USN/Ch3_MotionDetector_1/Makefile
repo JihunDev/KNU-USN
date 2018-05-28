@@ -1,0 +1,3 @@
+COMPONENT=Ch3_MotionDetector_1C
+CFLAGS += -DDEFINED_TOS_AM_GROUP=36
+include $(MAKERULES)
