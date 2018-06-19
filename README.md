@@ -1,40 +1,25 @@
-# KNU
+# KUN-USN
 
-# AVR
-
-## About Project
-
-적외선 센서를 이용한 농구 게임기
+USN 수업 프로젝트
 
 
 
-# DSP
+## About the Project
 
-## About Project
-
-FFT
+자동환기 시스템
 
 
 
-# Java
+## Getting Started
+
+### Requirements
+
+- 한백전자 HBE-ITC-RFID&USN Kit
+- TinyOS
+- CyWin
 
 
 
-# LineTracer
+## License
 
-
-
-# UCOS-2
-
-## About Project
-
-세마포어를 이용한 라면 타이머
-
-
-
-# USN
-
-## About Projcet
-
-자동 환기시스템을 이용한 흡연 부스
-
+This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) file for details.
